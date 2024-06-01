@@ -73,7 +73,7 @@ Installation
 
     sh
 
-git clone https://github.com/yourusername/safetreeservices-website.git
+git clone git@github.com:gerardojgarcia/safetree_services.git
 
 Navigate to the project directory:
 
