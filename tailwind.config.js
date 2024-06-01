@@ -4,7 +4,7 @@ module.exports = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        dark_slate_gray: '#8B4513',
+        dark_slate_gray: '#1f590c',
         steel_blue: '##7CFC00',
         concrete_gray: '#228B22',
         safety_orange: '#87CEEB',
