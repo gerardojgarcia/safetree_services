@@ -16,6 +16,14 @@ const pages = ref([
             "Learn how to identify when your trees need trimming to maintain their health and safety.",
         link: "/blog/signs-trees-need-trimming",
     },
+    {
+        id: 3,
+        title: "Best Time of Year for Tree Trimming in San Bernardino",
+        date: "06-23-2024",
+        description:
+            "Discover the optimal times for tree trimming in San Bernardino County to ensure tree health.",
+        link: "/blog/best-time-tree-trimming-san-bernardino",
+    },
 ]);
 </script>
 <template>

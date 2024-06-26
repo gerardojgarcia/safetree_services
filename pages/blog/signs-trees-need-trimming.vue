@@ -106,9 +106,7 @@
                 Case Studies: Real-Life Examples from San Bernardino County
             </h2>
             <div class="mb-4">
-                <h3 class="text-xl font-bold mb-2">
-                    Example 1: The Johnson Residence
-                </h3>
+                <h3 class="text-xl font-bold mb-2">The Johnson Residence</h3>
                 <p class="text-gray-700">
                     In Highland, the Johnson family noticed their backyard tree
                     was growing too close to their home and power lines. After
@@ -117,9 +115,7 @@
                 </p>
             </div>
             <div>
-                <h3 class="text-xl font-bold mb-2">
-                    Example 2: The Nguyen Family
-                </h3>
+                <h3 class="text-xl font-bold mb-2">The Nguyen Family</h3>
                 <p class="text-gray-700">
                     The Nguyen family in San Bernardino had a large tree with
                     several dead branches. A professional trimming service
@@ -131,7 +127,7 @@
 
         <section class="mb-8">
             <h2 class="text-2xl font-bold mb-4">
-                Deep Dive: The Importance of Regular Tree Trimming
+                The Importance of Regular Tree Trimming
             </h2>
 
             <h3 class="text-xl font-bold mb-2">Promotes Tree Health</h3>
@@ -186,7 +182,7 @@
         <section class="mt-8">
             <p class="text-gray-700 mb-4">
                 Notice any of these signs in your trees? Don't wait—visit our
-                <NuxtLink to="/quote" class="text-concrete_gray"
+                <NuxtLink to="/quote" class="text-concrete_gray font-bold"
                     >quote</NuxtLink
                 >
                 page to get a free estimate from professional tree trimming
