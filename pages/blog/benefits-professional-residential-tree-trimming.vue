@@ -1,4 +1,3 @@
-```vue
 <script setup>
 // No additional setup required
 </script>
@@ -169,4 +168,3 @@
         </section>
     </div>
 </template>
-```

@@ -24,6 +24,14 @@ const pages = ref([
             "Discover the optimal times for tree trimming in San Bernardino County to ensure tree health.",
         link: "/blog/best-time-tree-trimming-san-bernardino",
     },
+    {
+        id: 4,
+        title: "DIY Tree Trimming Tips",
+        date: "06-23-2024",
+        description:
+            "Practical tips for safely trimming your trees at home.Practical tips for safely trimming your trees at home.",
+        link: "/blog/diy-tree-trimming-tips",
+    },
 ]);
 </script>
 <template>

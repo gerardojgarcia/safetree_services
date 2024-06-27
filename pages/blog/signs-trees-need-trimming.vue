@@ -1,6 +1,7 @@
-```vue
 <script setup>
-// No additional setup required
+useHead({
+    title: "Safetree: Signs Your Trees Need Trimming",
+});
 </script>
 
 <template>
@@ -103,7 +104,7 @@
 
         <section class="mb-8">
             <h2 class="text-2xl font-bold mb-4">
-                Case Studies: Real-Life Examples from San Bernardino County
+                Real-Life Examples from San Bernardino County
             </h2>
             <div class="mb-4">
                 <h3 class="text-xl font-bold mb-2">The Johnson Residence</h3>

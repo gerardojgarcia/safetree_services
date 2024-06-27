@@ -1,5 +1,7 @@
 <script setup>
-// No additional setup required
+useHead({
+    title: "Safetree: Best Time of Year for Tree Trimming",
+});
 </script>
 
 <template>
