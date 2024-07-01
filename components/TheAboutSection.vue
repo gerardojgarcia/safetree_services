@@ -5,12 +5,13 @@
     class="grid md:grid-cols-2 dark:text-white dark:bg-dark_slate_gray place-items-center overflow-hidden"
   >
     <div class="p-8" data-aos="fade-right">
-      <h2 class="text-5xl mb-6">Excellence in Concrete Sealing</h2>
-      <p class="text-2xl md:w-3/4 mb-4">Your Concrete, Our Commitment</p>
+      <h2 class="text-5xl mb-6">Excellence in Tree Trimming</h2>
+      <p class="text-2xl md:w-3/4 mb-4">Your Trees, Our Commitment</p>
       <p class="text-lg">
-        At SealTech Pro, we specialize in protecting and enhancing the durability of
-        concrete surfaces. With our expert team and top-quality sealants, we ensure your
-        driveways, patios, walkways, and commercial projects stand the test of time.
+        At Safetree, we specialize in protecting and enhancing the durability of
+        concrete surfaces. With our expert team and top-quality sealants, we
+        ensure your driveways, patios, walkways, and commercial projects stand
+        the test of time.
       </p>
 
       <div
