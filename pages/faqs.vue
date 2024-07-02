@@ -1,5 +1,9 @@
 <script setup>
 
+useHead({
+  title: "Frequently Asked Questions"
+})
+
 const faqs = ref([
 {
     id: 1,

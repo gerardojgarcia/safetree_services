@@ -1,4 +1,10 @@
-<script setup></script>
+<script setup>
+
+useHead({
+  title: 'About Safetree Trimming Services'
+})
+
+</script>
 <template>
   <div>
     <TheHeader />
@@ -7,14 +13,14 @@
     <div class="max-w-7xl mx-auto p-6 space-y-10">
       <!-- Heading -->
       <header class="text-center">
-        <h1 class="text-4xl font-bold">About SealTechPro</h1>
+        <h1 class="text-4xl font-bold">About Safetree Trimming Services</h1>
       </header>
 
       <!-- Introduction -->
       <section class="bg-white p-6 rounded shadow-md">
         <h2 class="text-2xl font-semibold mb-4">Our Mission</h2>
         <p>
-          At SealTech Pro, our mission is to protect and enhance the durability of
+          At Safetree, our mission is to protect and enhance the durability of
           concrete surfaces for residential, commercial, and industrial clients. We are
           committed to delivering top-tier concrete sealing services with a focus on
           quality, reliability, and customer satisfaction.
@@ -25,7 +31,7 @@
       <section class="bg-white p-6 rounded shadow-md">
         <h2 class="text-2xl font-semibold mb-4">Who We Are</h2>
         <p>
-          Based in San Bernardino County, California, SealTech Pro has built a reputation
+          Based in San Bernardino County, California, Safetree has built a reputation
           as a trusted partner in concrete sealing. Our team of experienced professionals
           utilizes state-of-the-art techniques and premium sealant products to ensure your
           concrete surfaces are well-protected against weathering, staining, and wear.

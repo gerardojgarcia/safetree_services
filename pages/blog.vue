@@ -1,4 +1,9 @@
-<script setup></script>
+<script setup>
+
+useHead({
+  title: 'SafeTree Blog'
+})
+</script>
 <template>
   <div class="dark:bg-black h-screen dark:text-white">
     <TheHeader />
