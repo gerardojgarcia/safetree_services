@@ -2,7 +2,7 @@
 <template>
     <div>
         <header
-            class="p-4 fixed w-full bg-white flex justify-evenly text-black text-black top-0 items-center"
+            class="p-4 fixed w-full bg-white flex justify-evenly  text-black top-0 items-center"
         >
             <img src="/safetree_logo.png" alt="Safetree Services " width="100rem"/>
 
