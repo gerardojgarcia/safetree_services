@@ -2,9 +2,9 @@
 <template>
     <div>
         <header
-            class="p-4 fixed w-full bg-white flex justify-evenly text-black dark:text-white items-center"
+            class="p-4 fixed w-full bg-white flex justify-evenly text-black text-black top-0 items-center"
         >
-            <img src="/" alt="Safetree Services " />
+            <img src="/safetree_logo.png" alt="Safetree Services " width="100rem"/>
 
             <!-- Main Navigation -->
             <nav class="flex w-1/2 justify-evenly font-bold">

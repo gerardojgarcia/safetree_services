@@ -10,7 +10,7 @@ useHead({
     <TheHeader />
     <AppSubpageHero title="About Us" />
     <!-- Container for the whole page -->
-    <div class="max-w-7xl mx-auto p-6 space-y-10">
+    <div class="max-w-7xl mx-auto p-6 mb-8 space-y-10">
       <!-- Heading -->
       <header class="text-center">
         <h1 class="text-4xl font-bold">About Safetree Trimming Services</h1>
@@ -84,13 +84,13 @@ useHead({
           </li>
         </ul>
       </section>
-
+<img src="/safe_tree_header_image.webp" alt="Image of the Safetree shield and logo">
       <!-- Join Us on Our Journey -->
 
       <!-- Contact Us -->
       <section class="bg-white p-6 rounded shadow-md">
         <h2 class="text-2xl font-semibold mb-4">Contact Us</h2>
-        <p>Discover the SealTech Pro difference – where quality meets durability.</p>
+        <p>Discover the SafeTree difference – where quality meets durability.</p>
       </section>
     </div>
 
@@ -99,6 +99,6 @@ useHead({
       class="p-2 ml-16 md:w-1/2 border-2 border-safety_orange rounded-md hover:bg-safety_orange hover:text-white duration-150"
       >Contact Us to Learn More</NuxtLink
     >
-    <TheFooter />
+    <TheFooter class="text-white" />
   </div>
 </template>

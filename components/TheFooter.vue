@@ -1,4 +1,4 @@
-nnu
+
 <script setup>
 const subscribe = ref(false);
 </script>
