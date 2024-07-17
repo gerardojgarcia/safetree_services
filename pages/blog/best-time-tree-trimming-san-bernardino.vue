@@ -216,7 +216,7 @@ useHead({
         <section class="mt-8">
             <p class="text-gray-700 mb-4">
                 Ready to schedule your tree trimming? Visit our
-                <NuxtLink to="/qoute" class="text-concrete_gray font-bold"
+                <NuxtLink to="/quote" class="text-concrete_gray font-bold"
                     >quote</NuxtLink
                 >
                 page to get a free estimate from expert tree trimming services

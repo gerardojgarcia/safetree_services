@@ -5,13 +5,8 @@
     id="services"
     class="grid md:grid-cols-2 place-items-center dark:text-white dark:bg-dark_slate_gray"
   >
-    <div class="grid place-items-center rounded-lg" data-aos="fade-right">
-      <img
-        src="/safetree_3.webp"
-        alt="Image of men doig maintenance on solar panels"
-        class="rounded-lg p-4 md:p-32"
-        height="600px"
-      />
+    <div class="grid place-items-center rounded-lg w-full overflow-hidden h-full bg-[url('/safetree_3.webp')] bg-center bg-no-repeat" data-aos="fade-right">
+      
     </div>
     <div class="p-8" data-aos="fade-left">
       <h2 class="text-4xl mb-6">Our Services</h2>
@@ -20,7 +15,7 @@
         are crucial. Our team ensures that every surface is thoroughly cleaned
         and prepped, providing a solid foundation for the sealing process.
       </p>
-      <div class="mt-8 grid grid-cols-2 space-y-6 gap-4">
+      <div class="mt-8 grid md:grid-cols-2 space-y-6 gap-4">
         <div
           class="hover:shadow-lg rounded-lg p-4 duration-150 hover:border-2 hover:border-safety_orange"
         >

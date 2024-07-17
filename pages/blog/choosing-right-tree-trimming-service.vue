@@ -127,7 +127,7 @@
 
         <section class="mb-8">
           <h2 class="text-2xl font-semibold mb-2">
-            Case Study: Local Success Stories
+           Local Success Stories
           </h2>
           <div class="mb-4">
             <h3 class="text-xl font-semibold">
@@ -171,7 +171,6 @@
         </section>
 
         <section class="mb-8">
-          <h2 class="text-2xl font-semibold mb-2">Conclusion</h2>
           <p>
             Choosing the right tree trimming service in San Bernardino County
             involves careful consideration of experience, certifications,
