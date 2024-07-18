@@ -16,7 +16,7 @@ const subscribe = ref(false);
                     >Blog</NuxtLink
                 >
                 <NuxtLink href="#" class="hover:underline hover:text-blue-400"
-                    >SolarSustain on Youtube</NuxtLink
+                    >SafeTree on Youtube (Coming Soon)</NuxtLink
                 >
                 <NuxtLink href="#" class="hover:underline hover:text-blue-400"
                     >Start a Franchise</NuxtLink
