@@ -39,7 +39,7 @@ const pages = ref([
     <nav class="side-nav flex flex-col">
       <NuxtLink
         :to="page.link"
-        class="hover:text-blue-400"
+        class="hover:text-concrete_gray"
         v-for="page in pages"
         :key="page.id"
         >{{ page.title }}
