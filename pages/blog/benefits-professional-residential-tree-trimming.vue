@@ -1,5 +1,9 @@
 <script setup>
-// No additional setup required
+useHead({
+    title: "Benefits of Professional Residential Tree Trimming Services",
+    description:
+        "Why San Bernardino County Residents Should Consider Hiring Experts",
+});
 </script>
 
 <template>
