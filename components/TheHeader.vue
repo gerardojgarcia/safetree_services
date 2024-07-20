@@ -2,9 +2,13 @@
 <template>
     <div>
         <header
-            class="p-4 fixed w-full bg-white flex justify-evenly  text-black top-0 items-center z-10"
+            class="p-4 fixed w-full bg-white flex justify-evenly text-black top-0 items-center z-10"
         >
-            <img src="/safetree_logo.png" alt="Safetree Services " width="100rem"/>
+            <img
+                src="/safetree_logo.png"
+                alt="Safetree Services "
+                width="100rem"
+            />
 
             <!-- Main Navigation -->
             <nav class="flex w-1/2 justify-evenly font-bold">
@@ -14,10 +18,10 @@
                 <NuxtLink to="/#services" class="hover:text-safety_orange"
                     >Services</NuxtLink
                 >
-                <NuxtLink to="about" class="hover:text-safety_orange"
+                <NuxtLink to="/about" class="hover:text-safety_orange"
                     >About</NuxtLink
                 >
-                <NuxtLink to="support" class="hover:text-safety_orange"
+                <NuxtLink to="/support" class="hover:text-safety_orange"
                     >Contact</NuxtLink
                 >
             </nav>
