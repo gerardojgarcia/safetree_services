@@ -5,7 +5,7 @@ import articles from "/data/articles.js";
     <div>
         <nav class="side-nav flex flex-col">
             <NuxtLink
-                :to="articles.link"
+                :to="article.link"
                 class="hover:text-concrete_gray"
                 v-for="article in articles"
                 :key="article.id"
