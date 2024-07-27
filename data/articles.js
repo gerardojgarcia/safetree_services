@@ -45,3 +45,5 @@ export const articles = ref([
     image: "/safetree_1.webp",
   },
 ]);
+
+export default articles;
