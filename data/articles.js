@@ -53,6 +53,15 @@ export const articles = ref([
     link: "/blog/tree-pruning-techniques-healthy-growth",
     image: "/safetree_1.webp",
   },
+  {
+    id: 7,
+    title: "Tree Trimming vs. Tree Pruning: What’s the Difference?",
+    date: "06-23-2024",
+    description:
+      "Practical tips for safely trimming your trees at home.Practical tips for safely trimming your trees at home.",
+    link: "/blog/tree-trimming-vs-pruning-difference",
+    image: "/tree_trimm.webp",
+  },
 ]);
 
 export default articles;
