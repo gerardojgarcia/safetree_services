@@ -44,6 +44,15 @@ export const articles = ref([
     link: "/blog/diy-tree-trimming-tips",
     image: "/safetree_1.webp",
   },
+{
+    id: 6,
+    title: "Tree Pruning Techniques",
+    date: "06-23-2024",
+    description:
+      "Practical tips for safely trimming your trees at home.Practical tips for safely trimming your trees at home.",
+    link: "/blog/tree-pruning-techniques-healthy-growth",
+    image: "/safetree_1.webp",
+  },
 ]);
 
 export default articles;

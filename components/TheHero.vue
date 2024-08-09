@@ -16,7 +16,7 @@
             >
                 <NuxtLink
                     to="/quote"
-                    class="hero-quote hover:bg-safety_orange  border-safety_orange border-2 p-2 rounded-md duration-150"
+                    class="hero-quote animate-bounce  hover:animate-none hover:bg-safety_orange  border-safety_orange border-2 p-2 rounded-md duration-150"
                     >Get A Free Quote</NuxtLink
                 >
             </div>
